@@ -56,13 +56,6 @@ I build intelligent systems from autonomous research agents to real-time object 
 
 ---
 
-## GitHub Stats
-
-![Bhavithra GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaviss&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaviss&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## Currently Learning
 
 - Advanced RAG architectures and agentic AI workflows
